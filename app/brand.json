@@ -1,0 +1,17 @@
+{
+  "productName": "清影 Qingying Studio",
+  "nameZh": "清影",
+  "nameEn": "Qingying Studio",
+  "displayName": "清影 · Qingying Studio",
+  "tagline": "本地调色与批量输出",
+  "windowTitle": "清影 · Qingying Studio",
+  "identifier": "com.qingying.app",
+  "packageName": "qingying",
+  "crateName": "qingying",
+  "exportPrefix": "qingying",
+  "watermarkText": "清影 · Qingying Studio",
+  "recipeFormat": "qingying-recipe",
+  "legacyRecipeFormats": ["toneforge-recipe"],
+  "copyright": "© 2026 清影 Qingying Studio",
+  "placeholder": false
+}
